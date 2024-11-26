@@ -3,11 +3,11 @@ A simple web application that converts numebrs in decimal base to another base a
 
 ## To do
 
-[] nettoyer le code
+- [ ] nettoyer le code
 
-[] Gerer les historique de maniere claire et precise.
+- [ ] Gerer les historique de maniere claire et precise.
 
-[] ajouter une fonctionnalite de historique
+- [ ] ajouter une fonctionnalite de historique
 
-[] Ajouter des nouvelles fontionnalite d'operation sur les inputs
+- [ ] Ajouter des nouvelles fontionnalite d'operation sur les inputs
     binaires signes(inclus la detection des debordement).
